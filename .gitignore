@@ -1,0 +1,9 @@
+node_modules
+rethinkdb_data
+npm-debug.log
+dist
+keys.*
+.DS_Store
+.sessions/*.s
+*_dump.txt
+dump.rdb
